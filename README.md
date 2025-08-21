@@ -26,11 +26,11 @@
 
 ## 📈 GitHub Stats
 
-
+<img src="https://camo.githubusercontent.com/3d989951dd022d83bd335884d2540dcc9ad9d9ff4b5feac3bdb457630caa4615/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666c657731782673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74" alt="Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=flew1x&amp;show_icons=true&amp;theme=transparent" style="max-width: 100%;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=DimaKarapysh&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
   <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimaKarapysh&theme=github_dark&hide_border=true&ring=007ACC&currStreakLabel=007ACC&sideNums=007ACC&sideLabels=007ACC&dates=CCCCCC" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=DimaKarapysh&theme=github_dark&hide_border=true&ring=2389da&fire=2389da&currStreakNum=2389da&currStreakLabel=2389da&sideNums=B0B0B0&sideLabels=B0B0B0&dates=808080&border=0D1117" height="150"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKarapysh&layout=compact&theme=github_dark&hide_border=true" height="150"/>
   </div>
 
