@@ -29,7 +29,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=DimaKarapysh&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
   <div>
-      <img src="https://streak-stats.demolab.com?user=DimaKarapysh&theme=github_dark&hide_border=true&ring=2389da&fire=2389da&currStreakNum=2389da&currStreakLabel=2389da&sideNums=B0B0B0&sideLabels=B0B0B0&dates=808080&border=0D1117" height="150"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimaKarapysh&theme=github_dark&hide_border=true&ring=007ACC&currStreakLabel=007ACC&sideNums=007ACC&sideLabels=007ACC&dates=CCCCCC" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKarapysh&layout=compact&theme=github_dark&hide_border=true" height="150"/>
   </div>
 
