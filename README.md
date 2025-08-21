@@ -32,7 +32,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=DimaKarapysh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"
     height="165" alt="stats"/>
-
+<div>
   <!-- Streak (подряд и самый длинный) -->
   <img
     src="https://streak-stats.demolab.com?user=DimaKarapysh&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
@@ -42,7 +42,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKarapysh&layout=compact&theme=tokyonight&langs_count=8"
     height="165" alt="langs"/>
-
+</div>
 
 
 
