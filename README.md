@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hey, I'm Dmitry 👋  
 
 **Junior Golang / Backend Developer**  
@@ -20,19 +22,13 @@
 
 ---
 
-## 🚀 Projects  
-
-- 🔑 [Auth Service](https://github.com/DimaKarapysh/auth-service) — JWT + refresh tokens, Redis, PostgreSQL, Docker  
-- 📊 [Subscriptions Service](https://github.com/DimaKarapysh/sub-service) — CRUD сервис подписок  
-- 📡 [Pet Microservices](https://github.com/DimaKarapysh/microservices-pet) — Event-driven архитектура с Kafka, ClickHouse и Jaeger  
 
 ---
-
-## 📈 GitHub Stats  
+  
 
 ## 📈 GitHub Stats
 
-<div align="center">
+
 
   <!-- Общая статистика -->
   <img
@@ -49,7 +45,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKarapysh&layout=compact&theme=tokyonight&langs_count=8"
     height="165" alt="langs"/>
 
-</div>
+
 
 
 ---
@@ -59,4 +55,6 @@
 - Telegram: [@DimaKarapysh](https://t.me/DimaKarapysh)  
 - Email: **climorbob@gmail.com**  
 - LeetCode: [DimaKarapysh](https://leetcode.com/u/DimaKarapysh/)  
-- GitHub: [DimaKarapysh](https://github.com/DimaKarapysh)  
+- GitHub: [DimaKarapysh](https://github.com/DimaKarapysh)
+  
+</div>
