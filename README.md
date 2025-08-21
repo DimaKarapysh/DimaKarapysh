@@ -1,4 +1,4 @@
-<div align="center" theme=tokyonight>
+<div align="center">
 
 # Hey, I'm Dmitry 👋  
 
@@ -28,9 +28,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimaKarapysh&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimaKarapysh&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKarapysh&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DimaKarapysh&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimaKarapysh&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKarapysh&layout=compact&hide_border=true" height="150"/>
 </p>
 
 
