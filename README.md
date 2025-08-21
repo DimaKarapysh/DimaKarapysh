@@ -27,10 +27,10 @@
 ## 📈 GitHub Stats
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DimaKarapysh&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DimaKarapysh&show_icons=true&theme=github_dark-blue&hide_border=true" height="150"/>
   <div>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimaKarapysh&theme=github_dark&hide_border=true&ring=007ACC&currStreakLabel=007ACC&sideNums=007ACC&sideLabels=007ACC&dates=CCCCCC&border=00000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKarapysh&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimaKarapysh&theme=github_dark-blue&hide_border=true&ring=007ACC&currStreakLabel=007ACC&sideNums=007ACC&sideLabels=007ACC&dates=CCCCCC&border=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKarapysh&layout=compact&theme=github_dark-blue&hide_border=true" height="150"/>
   </div>
 
 
