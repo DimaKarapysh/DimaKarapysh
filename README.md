@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" theme=tokyonight>
 
 # Hey, I'm Dmitry 👋  
 
